@@ -1,0 +1,966 @@
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.json
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.StaticWebAssets.xml
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.exe
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.deps.json
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.json
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.dev.json
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.pdb
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.pdb
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.AssemblyReference.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.GeneratedMSBuildEditorConfig.editorconfig
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfoInputs.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfo.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CoreCompileInputs.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Manifest.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.xml
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\scopedcss\bundle\web12190.styles.css
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.input.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.output.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorCoreGenerate.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cache
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.Views.pdb
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CopyComplete
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.dll
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.pdb
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.genruntimeconfig.cache
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Create.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Delete.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Details.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Edit.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Index.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Create.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Delete.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Details.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Edit.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Index.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Create.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Delete.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Details.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Edit.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Index.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Create.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Delete.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Details.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Edit.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Index.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Create.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Details.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
+F:\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.exe
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.deps.json
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.json
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.dev.json
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.AssemblyReference.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfoInputs.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfo.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CoreCompileInputs.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Manifest.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Pack.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.web12190.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.web12190.props
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.web12190.props
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.web12190.props
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.input.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.output.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorCoreGenerate.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cache
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cs
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CopyComplete
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.genruntimeconfig.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.exe
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.deps.json
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.json
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.dev.json
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.AssemblyReference.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfoInputs.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CoreCompileInputs.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Manifest.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Pack.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.web12190.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.web12190.props
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.web12190.props
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.web12190.props
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.input.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.output.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorCoreGenerate.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courses\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Courseworks\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Students\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CopyComplete
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\New folder\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.genruntimeconfig.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.AssemblyReference.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfoInputs.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CoreCompileInputs.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Manifest.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Pack.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.web12190.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.web12190.props
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.web12190.props
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.web12190.props
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.input.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.output.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorCoreGenerate.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Assignments\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Submissions\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.exe
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.deps.json
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.json
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.dev.json
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CopyComplete
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.genruntimeconfig.cache
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.exe
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.deps.json
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.json
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.runtimeconfig.dev.json
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.AssemblyReference.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfoInputs.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.AssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CoreCompileInputs.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Manifest.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.Pack.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.web12190.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.web12190.props
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.web12190.props
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.web12190.props
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\staticwebassets\web12190.StaticWebAssets.xml
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.input.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.TagHelpers.output.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorCoreGenerate.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.RazorTargetAssemblyInfo.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.Views.pdb
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.csproj.CopyComplete
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.dll
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.pdb
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\web12190.genruntimeconfig.cache
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Delivery\Index.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Validation\Create.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Validation\Delete.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Validation\Details.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Validation\Edit.cshtml.g.cs
+E:\Users\00012190\Desktop\New folder (2)\web12190\web12190\obj\Debug\netcoreapp3.1\Razor\Views\Validation\Index.cshtml.g.cs
